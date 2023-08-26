@@ -1,0 +1,13 @@
+MINIMUM
+Flight Number: A-72AC
+Airline: American Airlines
+Distance: 225
+
+MAXIMUM
+Flight Number: C-R2D2
+Airline: Spirit
+Distance: 2600
+
+Total flights: 50
+Sum of Distances: 56807
+Average Distance: 1136

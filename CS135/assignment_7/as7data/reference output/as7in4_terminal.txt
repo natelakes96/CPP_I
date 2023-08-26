@@ -1,0 +1,4 @@
+Enter a file name: invalid.csv
+Error: Invalid filename
+
+Enter a file name: as7data/input/as7in4.txt

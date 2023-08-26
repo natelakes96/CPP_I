@@ -1,0 +1,13 @@
+MINIMUM
+Flight Number: A-772
+Airline: American Airlines
+Distance: 251
+
+MAXIMUM
+Flight Number: B-BB8
+Airline: American Airlines
+Distance: 2473
+
+Total flights: 8
+Sum of Distances: 10158
+Average Distance: 1269

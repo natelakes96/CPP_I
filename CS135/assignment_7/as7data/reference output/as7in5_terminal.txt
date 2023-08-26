@@ -1,0 +1,11 @@
+Enter a file name: invalid
+Error: Invalid filename
+
+Enter a file name: error
+Error: Invalid filename
+
+Enter a file name: whoops
+Error: Invalid filename
+
+Enter a file name: as7data/input/as7in5.txt
+Error: Max input size read in

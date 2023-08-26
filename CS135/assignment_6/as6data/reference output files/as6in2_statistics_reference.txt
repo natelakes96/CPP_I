@@ -1,0 +1,13 @@
+MINIMUM
+Flight Number: A-72AC
+Airline: American Airlines
+Distance: 225
+
+MAXIMUM
+Flight Number: B-724
+Airline: Alaska Air
+Distance: 2500
+
+Total flights: 24
+Sum of Distances: 29452
+Average Distance: 1227

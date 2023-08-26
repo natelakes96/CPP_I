@@ -1,0 +1,11 @@
+MINIMUM AREA
+Index: 0
+Type: octagon
+Side Length: 1.29
+Area: 8.06
+
+MAXIMUM AREA
+Index: 32
+Type: decagon
+Side Length: 249.08
+Area: 477366.73

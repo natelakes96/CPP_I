@@ -1,0 +1,11 @@
+MINIMUM AREA
+Index: 0
+Type: hexagon
+Side Length: 1.10
+Area: 3.13
+
+MAXIMUM AREA
+Index: 44
+Type: decagon
+Side Length: 243.25
+Area: 455274.41

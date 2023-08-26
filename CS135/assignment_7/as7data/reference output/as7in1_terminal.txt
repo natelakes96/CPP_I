@@ -1,0 +1,4 @@
+Enter a file name: error.txt
+Error: Invalid filename
+
+Enter a file name: as7data/input/as7in1.txt

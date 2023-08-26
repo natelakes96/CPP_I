@@ -1,0 +1,3 @@
+hexagon 7.72555
+octagon 23.245
+decagon 12.76
